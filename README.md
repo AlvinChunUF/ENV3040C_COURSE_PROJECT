@@ -26,5 +26,10 @@ The code is separated into 3 main groups:
   EXPECTED IN THIS SECTION.
 - *##PCA ANALYSIS##*: This portion is responsible for performing the PCA analysis and generating the PCA graphs.
   AN OUTPUT IS EXPECTED IN THIS SECTION.
-Individual code descriptions are housed within the code in each section, and the report is also included as part
-of this repository. Thank you for taking a look! - Alvin Chun (achun2@ufl.edu, AlvinChunUF) 
+  
+Individual code descriptions are housed within the code in each section, and the report is also included as part of this repository.
+
+**GITHUB DIRECTORY MAP - FILE LIST**
+- COURSE PROJECT CODE.ipynb: This is the code for the project itself.
+- Maxwell_MarSOC_data.csv: This is the data for the project
+
