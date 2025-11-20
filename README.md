@@ -33,3 +33,4 @@ Individual code descriptions are housed within the code in each section.
 - COURSE PROJECT CODE.ipynb: This is the code for the project itself.
 - Maxwell_MarSOC_data.csv: This is the data for the project
 
+**CREDIT FOR ORIGINAL DATA SET GOES TO MAXWELL ET. AL** 
