@@ -10,7 +10,7 @@ hardcoded into the program and should not be modified.
 
 **CODE SUMMARY**
 
-The code is separated into 3 main groups:
+The code is separated into 5 main groups:
 - *##LIBRARY LOADING ZONE##*: This section is for loading all of the libraries and analytical functions that
   will be used to perform all of the data analysis. NO OUTPUT IS EXPECTED FROM THIS SECTION.
 - *##DATA FRAME GENERATION AND INITIAL VISUALIZATION##*: This section is for producing the inital dataframe to
