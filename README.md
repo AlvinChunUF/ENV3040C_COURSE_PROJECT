@@ -27,7 +27,7 @@ The code is separated into 5 main groups:
 - *##PCA ANALYSIS##*: This portion is responsible for performing the PCA analysis and generating the PCA graphs.
   AN OUTPUT IS EXPECTED IN THIS SECTION.
   
-Individual code descriptions are housed within the code in each section, and the report is also included as part of this repository.
+Individual code descriptions are housed within the code in each section.
 
 **GITHUB DIRECTORY MAP - FILE LIST**
 - COURSE PROJECT CODE.ipynb: This is the code for the project itself.
